@@ -1,8 +1,13 @@
 {
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "create-react-class": "^15.6.2",
     "express": "^4.16.2",
+    "express-react-views": "^0.10.4",
     "mysql2": "^1.5.1",
     "nodeadmin": "*",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "sequelize": "*"
   }
 }
